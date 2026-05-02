@@ -9,6 +9,6 @@
    { "id": "zhihu02", "name": "知乎问答取第一个", "file": "zhihu02.json", "pattern":
 "*.zhihu.com" },
    { "id": "zhihu03", "name": "知乎问答特殊场景", "file": "zhihu03.json", "pattern":
-"*.zhihu.com" },
+"*.zhihu.com" }
  ]
 }
