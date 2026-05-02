@@ -1,0 +1,29 @@
+{
+  "createdAt": "2026-04-12T10:29:25.240Z",
+  "enabled": true,
+  "filter": {
+    "exclude": [
+      {
+        "enabled": true,
+        "selector": "div.ContentItem > div.ContentItem-meta > div"
+      },
+      {
+        "enabled": true,
+        "selector": "div.RichContent > div > div"
+      }
+    ],
+    "include": [
+      {
+        "enabled": true,
+        "selector": "div.Question-mainColumn > div.Card > div.QuestionAnswer-content"
+      }
+    ],
+    "templates": []
+  },
+  "id": "template_1775989765240_6uymdwb",
+  "name": "知乎问答特殊场景",
+  "pattern": "*.zhihu.com",
+  "priority": 0,
+  "updatedAt": "2026-04-12T10:31:17.057Z",
+  "version": "1.0.0"
+}

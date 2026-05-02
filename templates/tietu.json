@@ -1,0 +1,26 @@
+{
+      "authorSelector": "#js_wx_follow_nickname",
+      "createdAt": "2026-02-15T04:52:16.168Z",
+      "enabled": true,
+      "filter": {
+        "exclude": [],
+        "include": [
+          {
+            "enabled": true,
+            "selector": "#js_image_desc"
+          },
+          {
+            "enabled": true,
+            "selector": "div.swiper_item &gt; div.swiper_item_img &gt; img"
+          }
+        ],
+        "templates": []
+      },
+      "id": "imported_1775989464876_0",
+      "name": "贴图",
+      "pattern": "*.mp.weixin.qq.com",
+      "priority": 0,
+      "titleSelector": "#js_image_content &gt; :nth-child(1)",
+      "updatedAt": "2026-04-12T10:24:24.876Z",
+      "version": "1.0.0"
+    }

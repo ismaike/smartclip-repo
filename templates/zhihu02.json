@@ -1,0 +1,36 @@
+{
+  "authorSelector": "div.AuthorInfo-head",
+  "createdAt": "2026-04-12T10:32:21.758Z",
+  "enabled": true,
+  "filter": {
+    "exclude": [
+      {
+        "enabled": true,
+        "selector": "div.ContentItem > div.ContentItem-meta > div"
+      },
+      {
+        "enabled": true,
+        "selector": "div.RichContent > div > div"
+      },
+      {
+        "enabled": true,
+        "selector": "div.ContentItem > div.RichContent > div.ContentItem-actions"
+      }
+    ],
+    "include": [
+      {
+        "enabled": true,
+        "firstOnly": true,
+        "selector": "div.List-item"
+      }
+    ],
+    "templates": []
+  },
+  "id": "template_1775989941758_kqhyeb0",
+  "name": "知乎问答取第一个",
+  "pattern": "*.zhihu.com",
+  "priority": 0,
+  "titleSelector": "div.QuestionHeader > div.QuestionHeader-content > div.QuestionHeader-main > :nth-child(2)",
+  "updatedAt": "2026-04-12T10:34:17.106Z",
+  "version": "1.0.0"
+}

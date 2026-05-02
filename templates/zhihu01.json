@@ -1,0 +1,22 @@
+{
+  "authorSelector": "div.AuthorInfo-head &gt; span.UserLink &gt; div &gt; :nth-child(1)",
+  "createdAt": "2026-02-15T05:00:52.706Z",
+  "enabled": true,
+  "filter": {
+    "exclude": [],
+    "include": [
+      {
+        "enabled": true,
+        "selector": "#content &gt; div.RichText"
+      }
+    ],
+    "templates": []
+  },
+  "id": "imported_1775989464876_1",
+  "name": "知乎专栏",
+  "pattern": "*.zhuanlan.zhihu.com",
+  "priority": 0,
+  "titleSelector": "div.Post-Row-Content-left-article &gt; article.Post-Main &gt; header.Post-Header &gt; :nth-child(1)",
+  "updatedAt": "2026-04-12T10:24:24.876Z",
+  "version": "1.0.0"
+}
