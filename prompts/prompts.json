@@ -2,7 +2,6 @@
   "name": "SmartClip Prompts",
   "version": "1.0.0",
   "prompts": [
-    { "file": "recommendation.md", "name": "推荐产品", "scope": ["content"] },
-    { "file": "translator.md", "name": "翻译专家", "scope": ["content"] }
+    { "file": "recommendation.md", "name": "推荐产品", "scope": ["content"] }
   ]
 }
