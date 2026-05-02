@@ -1,0 +1,14 @@
+{
+ "name": "SmartClip 剪藏模板",
+ "version": "1.0.0",
+ "description": "社区贡献的站点剪藏模板",
+ "templates": [
+   { "id": "tietu", "name": "贴图", "file": "tietu.json", "pattern": "*.mp.weixin.qq.com" },
+   { "id": "zhihu01", "name": "知乎专栏", "file": "zhihu01.json", "pattern":
+"*.zhuanlan.zhihu.com" },
+   { "id": "zhihu02", "name": "知乎问答取第一个", "file": "zhihu02.json", "pattern":
+"*.zhihu.com" },
+   { "id": "zhihu03", "name": "知乎问答特殊场景", "file": "zhihu03.json", "pattern":
+"*.zhihu.com" },
+ ]
+}
