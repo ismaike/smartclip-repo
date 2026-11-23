@@ -28,7 +28,6 @@
 | 帮助中心与完整 FAQ | [smartclip.app/zh-CN/help](https://smartclip.app/zh-CN/help) |
 | 版本更新日志 | [smartclip.app/zh-CN/changelog](https://smartclip.app/zh-CN/changelog) |
 | AI / LLM 索引（`llms.txt`） | [smartclip.app/llms.txt](https://smartclip.app/llms.txt) |
-| X (Twitter) | [@maike_93z](https://x.com/maike_93z) |
 
 ---
 

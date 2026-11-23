@@ -28,7 +28,6 @@ This repository (`ismaike/smartclip-repo`) is the official community resource hu
 | Help & Full FAQ | [smartclip.app/en/help](https://smartclip.app/en/help) |
 | Changelog | [smartclip.app/en/changelog](https://smartclip.app/en/changelog) |
 | AI / LLM Index (`llms.txt`) | [smartclip.app/llms.txt](https://smartclip.app/llms.txt) |
-| X (Twitter) | [@maike_93z](https://x.com/maike_93z) |
 
 ---
 
